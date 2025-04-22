@@ -13,7 +13,7 @@
 
 ### 🏆 Achievement and Experiences
 
-* 🖥 OPOSN COM CAMP 1 2023
+* 🖥 OPOSN | COM CAMP 1 2023
 * ⚙ Bronze Medal National Level | CHANGE INNOVATION AWARD Innovation Design Competition 2024
 * ⚙ Silver Medal National Level | Robot Competition for Honor Trophy in Automatic Robot Line Running Category ASEAN Robotics and E-Sports Competition Project Her Royal Highness Princess Maha Chakri Sirindhorn
 * 📚 Rank 1 of Pathumthani | Asian Science & Mathematics Olympiad for Primary and Secondary Schools

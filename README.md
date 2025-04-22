@@ -11,6 +11,19 @@
 
 ========================================================================================
 
+### 🏆 Achievement and Experiences
+
+* 🖥 OPOSN COM CAMP 1 2023
+* ⚙ Bronze Medal National Level | CHANGE INNOVATION AWARD Innovation Design Competition 2024
+* ⚙ Silver Medal National Level | Robot Competition for Honor Trophy in Automatic Robot Line Running Category ASEAN Robotics and E-Sports Competition Project Her Royal Highness Princess Maha Chakri Sirindhorn
+* 📚 Rank 1 of Pathumthani | Asian Science & Mathematics Olympiad for Primary and Secondary Schools
+* 📚 Honorable Mention | Thailand Mathematics Contest
+* 🖥 Silver Medal 1st Runner Up Creating a WEB APPLICATION, Educational Area Level | The student handicraft fair 71
+* ⚙ Silver Medal 2nd Runner-up Intermediate Level Robot Competition, Educational Area Level | The student handicraft fair 70
+* 📚 Mathematics Project | The Mathematical Association of Thailand under the Patronage of His Majesty the King
+* 📚 lecturer at a computer camp on teaching robot control programming
+
+========================================================================================
 
 ### 🖥 Programing Language (Currently Learning)
 
@@ -37,4 +50,10 @@
 </a><a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="80" height="36" alt="SOLIDWORKS" />
 </a>
+
+<h2 align="left"> 📞 Contact Me</h2>
+<p align="left">
+<a href="https://fb.com/phuu.dinun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bloom.nakrub" height="30" width="40" /></a>
+<a href="https://instagram.com/jxy_pupu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bloom.wrls" height="30" width="40" /></a>
+</p>
 

@@ -50,6 +50,9 @@
 </a><a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="80" height="36" alt="SOLIDWORKS" />
 </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="Arduino" />
+</a>
 
 <h2 align="left"> 📞 Contact Me</h2>
 <p align="left">

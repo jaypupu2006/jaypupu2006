@@ -65,7 +65,12 @@
 
 <b>My GitHub Stats</b>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypupu2006&show_icons=true&locale=en&layout=compact&count_private=true&theme=omni" height="175" alt="jaypupu2006"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jaypupu2006&show_icons=true&locale=en&count_private=true&theme=omni" height="175" alt="jaypupu2006"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jaypupu2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=jaypupu2006&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypupu2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jaypupu2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

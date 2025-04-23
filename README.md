@@ -15,7 +15,7 @@
 
 * 🖥 OPOSN | COM CAMP 1 2023
 * ⚙ Bronze Medal National Level | CHANGE INNOVATION AWARD Innovation Design Competition 2024
-* ⚙ Silver Medal National Level | Robot Competition for Honor Trophy in Automatic Robot Line Running Category ASEAN Robotics and E-Sports Competition Project Her Royal Highness Princess Maha Chakri Sirindhorn [Repository](https://github.com/jaypupu2006/Line-Fast-Robot)
+* ⚙ Silver Medal National Level | Robot Competition for Honor Trophy in Automatic Robot Line Running Category ASEAN Robotics and E-Sports Competition Project Her Royal Highness Princess Maha Chakri Sirindhorn ([Repository](https://github.com/jaypupu2006/Line-Fast-Robot))
 * 📚 Rank 1 of Pathumthani | Asian Science & Mathematics Olympiad for Primary and Secondary Schools
 * 📚 Honorable Mention | Thailand Mathematics Contest
 * 🖥 Silver Medal 1st Runner Up Creating a WEB APPLICATION, Educational Area Level | The student handicraft fair 71

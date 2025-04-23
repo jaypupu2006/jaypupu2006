@@ -61,9 +61,6 @@
 </p>
 
 
-### Badges
-
-<b>My GitHub Stats</b>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jaypupu2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
